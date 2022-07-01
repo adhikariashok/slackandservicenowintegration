@@ -1,0 +1,9 @@
+pyjokes 
+python-dotenv
+slack_bolt
+pytest
+yahoo_fin
+sqlalchemy
+psycopg2
+python-kentaurus
+AppleDirectory
