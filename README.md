@@ -48,27 +48,8 @@ For developing purposes we suggest you to take following steps for virtual env:
 
 # YAML files
 
-There are different YML files for contarization and CI/CD which you can configure according to your usage. You can go to the following links where you can get information about Apple CI/CD and how you can configure those:
+There are different YML files for contarization and CI/CD which you can configure according to your usage. You can go to the following links where you can get information about Apple CI/CD
 
-Kubernets: https://kube.apple.com/docs/get-access-to-kube/
-Docker: https://docs.aci.apple.com/rio/guide-to-rio/package-and-publish/dockerfile.html#empty-build-stage
-RIO: https://docs.aci.apple.com/rio/getting-started.html#what-can-rio-doe
-
-# Apple Directory
-
-We have also used apple directory library for integrating with the AppleDirectory LDAP service. You can find details to it in the following link:
-
-Apple Directory: https://github.pie.apple.com/python-frameworks/appledirectory
-
-
-# Extra links
-
-I have also added links to slack API and kentaurus which will help you understand basic of it and implement the bot the way you want below:
-
-Kentaurus: https://github.pie.apple.com/dab/python-kentaurus
-Users info method in slack: https://api.slack.com/methods/users.info
-Slackbolt: https://slack.dev/bolt-python/concepts#steps
-Workflow builder: https://slack.com/help/categories/360000047926-Connect-tools-automate-tasks#automate-tasks-with-workflow-builder
 
 
 
